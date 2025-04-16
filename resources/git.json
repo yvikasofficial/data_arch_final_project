@@ -1,0 +1,7 @@
+[
+  {
+    "p_rel_url": "/media/yvikasofficial/data_arch_final_project/refs/heads/main/PublicAssistanceFundedProjectsDetails.csv",
+    "p_sink_folder": "sources",
+    "p_sink_file": "projects.csv"
+  }
+]
